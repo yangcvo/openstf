@@ -129,3 +129,7 @@ Next steps: Now that you’ve installed RethinkDB, it’s time to install client
 * 参考链接：[Reference article](https://www.rethinkdb.com/docs/install/centos/)
 
 
+###安装GraphicsMagick
+* 最新版本包地址：http://sourceforge.net/projects/graphicsmagick/files/graphicsmagick/
+
+
