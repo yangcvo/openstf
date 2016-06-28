@@ -125,3 +125,7 @@ scl enable devtoolset-2 -- make
 sudo make install
 ```
 Next steps: Now that you’ve installed RethinkDB, it’s time to install client drivers for your language.
+
+[Reference article](https://www.rethinkdb.com/docs/install/centos/)
+
+
