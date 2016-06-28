@@ -24,3 +24,14 @@
 * [RPM 安装GLIBC下载包：](http://www.filewatcher.com/m/glibc-2.14.1-6.x86_64.rpm.3504537-0.html)
 
 这里我已经下载好了，可以到我这上面下载。
+
+## Installation method:
+
+``` bash
+ [root@openstf ~]# rpm -ivh --force glibc-2.15-22.6.4.x86_64.rpm
+warning: glibc-2.15-22.6.4.x86_64.rpm: Header V3 RSA/SHA256 Signature, key ID 3dbdc284: NOKEY
+Preparing...                ########################################### [100%]
+   1:glibc                  ########################################### [100
+   ```
+   
+   
