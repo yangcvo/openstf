@@ -126,6 +126,6 @@ sudo make install
 ```
 Next steps: Now that you’ve installed RethinkDB, it’s time to install client drivers for your language.
 
-[Reference article](https://www.rethinkdb.com/docs/install/centos/)
+* 参考链接：[Reference article](https://www.rethinkdb.com/docs/install/centos/)
 
 
