@@ -21,7 +21,7 @@
 
 共享链接：
 * [RPM 安装GLIBC下载包](https://rpmfind.net/linux/rpm2html/search.php?query=glibc)
-* [RPM 安装GLIBC下载包](tp://www.filewatcher.com/m/glibc-2.14.1-6.x86_64.rpm.3504537-0.html)
+* [RPM 安装GLIBC下载包](http://www.filewatcher.com/m/glibc-2.14.1-6.x86_64.rpm.3504537-0.html)
 
 这里我已经下载好了，可以到我这上面下载。
 
